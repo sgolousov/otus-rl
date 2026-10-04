@@ -12,6 +12,4 @@
 
 ![Результат обучения PPO с ограничением газа](20pct_of_gas.png)
 
-<video controls width="800">
-  <source src="https://github.com/sgolousov/otus-rl/raw/refs/heads/main/HW_03/video.mp4" type="video/mp4">
-</video>
+![Результат обучения PPO с ограничением газа](carracing-episode-0_806.gif)
