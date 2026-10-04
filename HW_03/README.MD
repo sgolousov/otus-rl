@@ -10,6 +10,8 @@
 Лучший результат был достигнут при использовании стандартной стратегии и ограничения максимального газа в 10%.
 В данном случае машина едет почти на полном газе все время и немного сбрасывает скорость на поворотах, срезая по траве.
 
-![Результат обучения PPO с ограничением газа]("20pct_of_gas.png")
+![Результат обучения PPO с ограничением газа](20pct_of_gas.png)
 
-<video src="https://github.com/sgolousov/otus-rl/blob/main/HW_03/carracing-episode-0_806.mp4" controls></video>
+<video controls width="800">
+  <source src="https://github.com/sgolousov/otus-rl/raw/refs/heads/main/HW_03/video.mp4" type="video/mp4">
+</video>
